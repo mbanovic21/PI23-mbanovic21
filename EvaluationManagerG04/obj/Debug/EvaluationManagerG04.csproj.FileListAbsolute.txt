@@ -1,0 +1,11 @@
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\bin\Debug\EvaluationManagerG04.exe.config
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\bin\Debug\EvaluationManagerG04.exe
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\bin\Debug\EvaluationManagerG04.pdb
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\obj\Debug\EvaluationManagerG04.csproj.AssemblyReference.cache
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\obj\Debug\EvaluationManagerG04.csproj.SuggestedBindingRedirects.cache
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\obj\Debug\EvaluationManagerG04.frmLogin.resources
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\obj\Debug\EvaluationManagerG04.Properties.Resources.resources
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\obj\Debug\EvaluationManagerG04.csproj.GenerateResource.cache
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\obj\Debug\EvaluationManagerG04.csproj.CoreCompileInputs.cache
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\obj\Debug\EvaluationManagerG04.exe
+C:\Users\foi\source\repos\PI23-mbanovic21\EvaluationManagerG04\obj\Debug\EvaluationManagerG04.pdb
